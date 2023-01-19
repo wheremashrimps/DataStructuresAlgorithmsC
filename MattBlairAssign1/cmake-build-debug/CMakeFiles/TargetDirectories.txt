@@ -1,0 +1,3 @@
+C:/Sheridan/Winter23/DataStructures/week2/cmake-build-debug/CMakeFiles/week2.dir
+C:/Sheridan/Winter23/DataStructures/week2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Sheridan/Winter23/DataStructures/week2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
